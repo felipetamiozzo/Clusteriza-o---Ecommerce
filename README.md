@@ -1,4 +1,4 @@
-# Desafio-7-DNC---
+# Modelo de Clusterização
 Modelo de Clusterização com RFM de um ecommerce. O mesmo foi feito utilizado a metodologida do CRISP - DM.
 
 # Desafio: Crie um Modelo de Análise das Métricas RFV
